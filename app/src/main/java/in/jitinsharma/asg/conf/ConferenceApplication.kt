@@ -16,5 +16,7 @@ class ConferenceApplication : Application() {
             modules(conferenceModule)
         }
         //WorkManager.getInstance(this).enqueue(ConferenceUpdateWorker.getPeriodicRequest())
+        //this is test
+
     }
 }
